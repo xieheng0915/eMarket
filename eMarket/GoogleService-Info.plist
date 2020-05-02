@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>139230019681-m3luji3sc0b8k574lpq1p3o53ghlssvc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.139230019681-m3luji3sc0b8k574lpq1p3o53ghlssvc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPcgKpCmeV80yCR_dcpB7egA7otBAK_Yc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>139230019681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mangxier.eMarket</string>
+	<key>PROJECT_ID</key>
+	<string>emarket-1de53</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emarket-1de53.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:139230019681:ios:984dc8d38e7938ca272a20</string>
+	<key>DATABASE_URL</key>
+	<string>https://emarket-1de53.firebaseio.com</string>
+</dict>
+</plist>
